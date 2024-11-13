@@ -1,7 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import Home from "../pages/Home";
-import Blog, { loaderBlog } from "../pages/blog";
-import About from "../pages/about";
+import Blog, { loaderBlog } from "../pages/Blog";
+import About from "../pages/About";
 import NotFound from "../pages/NotFound";
 import LayoutPublic from "../layout/LayoutPublic";
 import Post, { loaderPost } from "../pages/Post";
